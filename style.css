@@ -124,7 +124,7 @@ textarea {
     display: flex;
     align-items: center; /*coloca no centro*/
     gap: 30px; /*dar espaçamento entre os itens*/
-    margin-top: -900px;
+    margin-top: -950px;
     
 
 }
@@ -137,6 +137,7 @@ textarea {
     color: white;
     font-size: 24px;
     cursor: pointer;
+    text-decoration: none;
 }
 
 .header a:hover { /*animação ao passar o mouse encima dos menus*/
@@ -180,9 +181,7 @@ textarea {
 
     }
 
-    .header img {
-        display: none;
-    }
+    
 
 
 
